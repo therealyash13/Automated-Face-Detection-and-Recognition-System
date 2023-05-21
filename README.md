@@ -1,10 +1,5 @@
 # Automated-Face-Detection-and-Recognition-System
 
-
-====================================================
-Automated Face Detection and Recognition System
-====================================================
-
 This repository contains the code and data for an Automated Face Detection and Recognition System, which utilizes deep learning algorithms and computer vision techniques to accurately detect and recognize faces for student attendance purposes. The system incorporates a Deep-CNN HAAR cascade classifier, OpenCV, and Keras to achieve high accuracy in face classification and recognition.
 
 Contact: yashwanthbalan75@gmail.com
